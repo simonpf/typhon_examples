@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="RemoteMappingsManager">
+    <list>
+      <list>
+        <remote-mappings server-id="python@ssh://u300676@thunder7.cen.uni-hamburg.de:22/dev/shm/u237002/anaconda/bin/python">
+          <settings>
+            <list>
+              <mapping local-root="$PROJECT_DIR$/../../.." remote-root="/home/zmaw/u300676" />
+            </list>
+          </settings>
+        </remote-mappings>
+      </list>
+    </list>
+  </component>
+</project>
